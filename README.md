@@ -1,2 +1,2 @@
 # Project-UNO
-Arduino Uno
+Project Uno 9 Sensor โดย นายภัครวินทร์ กิตติชัยวงศ์
